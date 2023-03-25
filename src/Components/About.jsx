@@ -22,7 +22,7 @@ const About = () => {
             project opportunities, clients, or employment.
           </p>
           <a
-            href="https://docs.google.com/document/d/1fSMUspcGv0arb_TmPap7DYV7Uh9qXdKe/edit"
+            href="https://docs.google.com/document/d/1uP3icnq_1_QwJFcXlHHjT4g3ZsBz1D-nT2F4RKf7Pzk/edit?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
