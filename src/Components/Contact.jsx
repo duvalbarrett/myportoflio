@@ -41,7 +41,7 @@ const Contact = () => {
           <div>
             <a href='https://github.com/duvalbarrett' target='_blank'>
               <i class='fa-brands fa-github'></i>
-            </a>Duval Barrett
+            </a>Duval B
           </div>
           <div>
             <a href='https://www.linkedin.com/in/duval-bar' target='_blank'>

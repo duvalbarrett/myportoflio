@@ -25,7 +25,7 @@ const Intro = () => {
               <h5>
                 Welcome <span class="h1">👋</span>
               </h5>
-              <h1>Hi, I'm Duval Barrett</h1>
+              <h1>Hi, I'm Duval</h1>
               <div className="intro-title">
                 <hr />
                 &nbsp; &nbsp;<p>Full Stack Web Developer 👨🏽‍💻</p>
@@ -42,7 +42,7 @@ const Intro = () => {
             </section>
           </div>
           <div className="intro-img">
-            <img src={portrait} alt="Duval Barrett" />
+            <img src={portrait} alt="Duval B" />
           </div>
         </div>
       </div>

@@ -7,7 +7,7 @@ const NavBar = () => {
       <nav class="navbar navbar-expand-lg navbar-dark" id="header">
         <div class="container">
           <a class="navbar-brand" href="" id="logo">
-            {"Duval Barrett 🖥️"}
+            {"Duval B 🖥️"}
           </a>
           <button
             class="navbar-toggler"
